@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Chapter8Exercise3/src/orders",
+        "Chapter8Exercise1/src/savings",
+        "Chapter8Exercise7/src/bowlingApp"
+    ]
+}
