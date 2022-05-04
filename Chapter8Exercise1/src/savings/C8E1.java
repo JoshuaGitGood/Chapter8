@@ -1,4 +1,3 @@
-// package MySavings.src.savings;
 import java.util.Scanner;
 public class C8E1 {
     public static void main(String[] args) throws Exception {
